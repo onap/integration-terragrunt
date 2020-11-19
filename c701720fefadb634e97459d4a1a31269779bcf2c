@@ -1,0 +1,8 @@
+Verified+1: ONAP Jobbuilder <onap-jobbuilder@jenkins.onap.org>
+Code-Review+1: Yoonsoon Jahng <yoonsoon.jahng@yoppworks.com>
+Code-Review+2: Morgan Richomme <morgan.richomme@orange.com>
+Submitted-by: Morgan Richomme <morgan.richomme@orange.com>
+Submitted-at: Thu, 19 Nov 2020 07:35:48 +0000
+Reviewed-on: https://gerrit.onap.org/r/c/integration/terragrunt/+/114748
+Project: integration/terragrunt
+Branch: refs/heads/master
