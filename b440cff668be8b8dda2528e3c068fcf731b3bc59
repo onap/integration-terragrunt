@@ -1,0 +1,9 @@
+Verified+1: Morgan Richomme <morgan.richomme@orange.com>
+Code-Review+2: Morgan Richomme <morgan.richomme@orange.com>
+Code-Review+2: LF Jenkins CI <releng+lf-jobbuilder@linuxfoundation.org>
+Code-Review+1: Yoonsoon Jahng <yoonsoon.jahng@yoppworks.com>
+Submitted-by: Morgan Richomme <morgan.richomme@orange.com>
+Submitted-at: Fri, 20 Nov 2020 09:34:53 +0000
+Reviewed-on: https://gerrit.onap.org/r/c/integration/terragrunt/+/114747
+Project: integration/terragrunt
+Branch: refs/heads/master
